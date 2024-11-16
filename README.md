@@ -168,7 +168,7 @@ After elaboration the file will come under snapshot. Select the test bench and s
 
 ![image](https://github.com/user-attachments/assets/59cfcfa4-c444-4c01-9a8e-8a33bbcf7c79)
 
-## Fig 8: Elaboration Launch Option
+### Fig 8: Elaboration Launch Option
 
 ## Step 3: Simulation: 
 
@@ -184,11 +184,11 @@ Steps for simulation – Run the simulation command with simulator options
 
 ![image](https://github.com/user-attachments/assets/a1c490ae-1dee-448c-bf74-289d9f9f81c5)
 
-## Fig 9: Design Browser window for simulation
+### Fig 9: Design Browser window for simulation
 
 ![image](https://github.com/user-attachments/assets/15107268-dbe5-4864-9471-a0098aecb63e)
 
-## Fig 10:Simulation Waveform Window
+### Fig 10:Simulation Waveform Window
 
 ### Result
 
